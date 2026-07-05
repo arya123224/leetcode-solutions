@@ -43,3 +43,19 @@ Every time a LeetCode submission is **accepted**, it is automatically pushed her
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3c,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/arya123224/leetcode-solutions/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/arya123224/leetcode-solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/arya123224/leetcode-solutions/tree/master/0016-3sum-closest) |
+<!---LeetCode Topics End-->
