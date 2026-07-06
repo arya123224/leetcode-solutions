@@ -51,11 +51,13 @@ Every time a LeetCode submission is **accepted**, it is automatically pushed her
 | ------- |
 | [0016-3sum-closest](https://github.com/arya123224/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arya123224/leetcode-solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/arya123224/leetcode-solutions/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/arya123224/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arya123224/leetcode-solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/arya123224/leetcode-solutions/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
